@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Kdam Thmor Pro", sans-serif;
+}
+.wrapper{
+    background: rgb(129, 129, 129);
+    color: #ffffff;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.wrapper h2{
+    margin: 50px 0 0 0;
+}
+
+.form{
+    background: rgb(129, 129, 129);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.new-item-form{
+    display: grid;
+}
+
+.form div{
+    padding: 10px 0;
+}
+.form button{
+    padding: 10px 20px;
+}
